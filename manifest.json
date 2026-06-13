@@ -13335,6 +13335,36 @@
     },
     {
       "group": "LI",
+      "code": "N02-2",
+      "title": "LI/N02-2 (N02-2.webp)",
+      "status": "ready",
+      "path": "LI/N02-2.webp",
+      "source": "N02-2.webp",
+      "situation": "N02",
+      "mode": "batch"
+    },
+    {
+      "group": "LI",
+      "code": "N02-3",
+      "title": "LI/N02-3 (N02-3.webp)",
+      "status": "ready",
+      "path": "LI/N02-3.webp",
+      "source": "N02-3.webp",
+      "situation": "N02",
+      "mode": "batch"
+    },
+    {
+      "group": "LI",
+      "code": "N02-4",
+      "title": "LI/N02-4 (N02-4.webp)",
+      "status": "ready",
+      "path": "LI/N02-4.webp",
+      "source": "N02-4.webp",
+      "situation": "N02",
+      "mode": "batch"
+    },
+    {
+      "group": "LI",
       "code": "N03-1",
       "title": "LI/N03-1 (NAIS_SCENE_1781075808526.png)",
       "status": "ready",
@@ -20775,6 +20805,16 @@
     },
     {
       "group": "SD",
+      "code": "N01-3",
+      "title": "SD/N01-3 (N01-3.webp)",
+      "status": "ready",
+      "path": "SD/N01-3.webp",
+      "source": "N01-3.webp",
+      "situation": "N01",
+      "mode": "batch"
+    },
+    {
+      "group": "SD",
       "code": "N02-1",
       "title": "SD/N02-1 (NAIS_SCENE_1780982025985.png)",
       "status": "ready",
@@ -20820,6 +20860,16 @@
       "status": "ready",
       "path": "SD/N02-5.webp",
       "source": "NAIS_SCENE_1780982076391.png",
+      "situation": "N02",
+      "mode": "batch"
+    },
+    {
+      "group": "SD",
+      "code": "N02-6",
+      "title": "SD/N02-6 (N02-6.webp)",
+      "status": "ready",
+      "path": "SD/N02-6.webp",
+      "source": "N02-6.webp",
       "situation": "N02",
       "mode": "batch"
     },
@@ -20895,16 +20945,6 @@
     },
     {
       "group": "SD",
-      "code": "N03-8",
-      "title": "SD/N03-8 (NAIS_SCENE_1781243488658.png)",
-      "status": "ready",
-      "path": "SD/N03-8.webp",
-      "source": "NAIS_SCENE_1781243488658.png",
-      "situation": "N03",
-      "mode": "batch"
-    },
-    {
-      "group": "SD",
       "code": "N04-1",
       "title": "SD/N04-1 (NAIS_SCENE_1781243449860.png)",
       "status": "ready",
@@ -20920,6 +20960,16 @@
       "status": "ready",
       "path": "SD/N04-2.webp",
       "source": "NAIS_SCENE_1781243457142.png",
+      "situation": "N04",
+      "mode": "batch"
+    },
+    {
+      "group": "SD",
+      "code": "N04-3",
+      "title": "SD/N04-3 (N04-3.webp)",
+      "status": "ready",
+      "path": "SD/N04-3.webp",
+      "source": "N04-3.webp",
       "situation": "N04",
       "mode": "batch"
     },

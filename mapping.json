@@ -10667,6 +10667,30 @@
     },
     {
       "group": "LI",
+      "code": "N02-2",
+      "situation": "N02",
+      "source": "N02-2.webp",
+      "mode": "batch",
+      "url": "https://cheongyeon-dev.github.io/q/LI/N02-2.webp"
+    },
+    {
+      "group": "LI",
+      "code": "N02-3",
+      "situation": "N02",
+      "source": "N02-3.webp",
+      "mode": "batch",
+      "url": "https://cheongyeon-dev.github.io/q/LI/N02-3.webp"
+    },
+    {
+      "group": "LI",
+      "code": "N02-4",
+      "situation": "N02",
+      "source": "N02-4.webp",
+      "mode": "batch",
+      "url": "https://cheongyeon-dev.github.io/q/LI/N02-4.webp"
+    },
+    {
+      "group": "LI",
       "code": "N03-1",
       "situation": "N03",
       "source": "NAIS_SCENE_1781075808526.png",
@@ -16619,6 +16643,14 @@
     },
     {
       "group": "SD",
+      "code": "N01-3",
+      "situation": "N01",
+      "source": "N01-3.webp",
+      "mode": "batch",
+      "url": "https://cheongyeon-dev.github.io/q/SD/N01-3.webp"
+    },
+    {
+      "group": "SD",
       "code": "N02-1",
       "situation": "N02",
       "source": "NAIS_SCENE_1780982025985.png",
@@ -16656,6 +16688,14 @@
       "source": "NAIS_SCENE_1780982076391.png",
       "mode": "batch",
       "url": "https://cheongyeon-dev.github.io/q/SD/N02-5.webp"
+    },
+    {
+      "group": "SD",
+      "code": "N02-6",
+      "situation": "N02",
+      "source": "N02-6.webp",
+      "mode": "batch",
+      "url": "https://cheongyeon-dev.github.io/q/SD/N02-6.webp"
     },
     {
       "group": "SD",
@@ -16715,14 +16755,6 @@
     },
     {
       "group": "SD",
-      "code": "N03-8",
-      "situation": "N03",
-      "source": "NAIS_SCENE_1781243488658.png",
-      "mode": "batch",
-      "url": "https://cheongyeon-dev.github.io/q/SD/N03-8.webp"
-    },
-    {
-      "group": "SD",
       "code": "N04-1",
       "situation": "N04",
       "source": "NAIS_SCENE_1781243449860.png",
@@ -16736,6 +16768,14 @@
       "source": "NAIS_SCENE_1781243457142.png",
       "mode": "batch",
       "url": "https://cheongyeon-dev.github.io/q/SD/N04-2.webp"
+    },
+    {
+      "group": "SD",
+      "code": "N04-3",
+      "situation": "N04",
+      "source": "N04-3.webp",
+      "mode": "batch",
+      "url": "https://cheongyeon-dev.github.io/q/SD/N04-3.webp"
     },
     {
       "group": "SH",
